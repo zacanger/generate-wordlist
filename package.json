@@ -1,6 +1,6 @@
 {
   "name": "generate-wordlist",
-  "description": "generate-wordlist",
+  "description": "Generate a list of unique words from an input file.",
   "version": "0.0.1",
   "author": {
     "name": "Zac Anger",
@@ -11,8 +11,7 @@
   "main": "index.js",
   "bin": "./index.js",
   "scripts": {
-    "start": "node index",
-    "test": ""
+    "start": "node index"
   },
   "homepage": "https://github.com/zacanger/generate-wordlist#readme",
   "repository": {
@@ -21,8 +20,8 @@
   },
   "bugs": "https://github.com/zacanger/generate-wordlist/issues",
   "keywords": [
-    "",
-    "generate-wordlist"
+    "generate-wordlist",
+    "wordlist"
   ],
   "dependencies": {},
   "devDependencies": {},
