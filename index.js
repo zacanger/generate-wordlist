@@ -12,5 +12,5 @@ if (module.parent || !args[0] || !args[1]) {
 fs.writeFileSync(args[1],
   [...new Set(fs.readFileSync(path.resolve(args[0]))
     .toString()
-    .split(/\s/g)
+    .split(/\s/)
     .sort())].join('\n'))
