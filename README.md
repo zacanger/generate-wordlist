@@ -16,4 +16,4 @@ Takes one option, `--no-punc`, which must be in the third position. Example:
 
 ## License
 
-[WTFPL](./LICENSE.md)
+[MIT](./LICENSE.md)
