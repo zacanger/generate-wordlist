@@ -3,8 +3,8 @@
   "description": "Generate a list of unique words from an input file.",
   "version": "1.0.1",
   "author": {
-    "name": "Zac Anger",
     "email": "zac@zacanger.com",
+    "name": "Zac Anger",
     "url": "http://zacanger.com"
   },
   "license": "MIT",
@@ -26,6 +26,6 @@
   "dependencies": {},
   "devDependencies": {},
   "engines": {
-    "node": ">=8.0.0"
+    "node": ">=10.0.0"
   }
 }
