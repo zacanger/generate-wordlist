@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+/* eslint-disable no-useless-escape */
+
 const fs = require('fs')
 const path = require('path')
 const args = process.argv.slice(2)
