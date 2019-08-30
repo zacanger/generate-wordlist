@@ -14,6 +14,4 @@ generate-wordlist`.
 Takes one option, `--no-punc`, which must be in the third position. Example:
 `npx generate-wordlist inputfile outputfile --no-punc`.
 
-## License
-
-[MIT](./LICENSE.md)
+[LICENSE](./LICENSE.md)
